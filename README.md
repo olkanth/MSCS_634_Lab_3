@@ -1,4 +1,6 @@
-# MSCS 634 - Lab 3: Clustering Analysis on Wine Dataset
+# Laxmi Kanth Oruganti
+### MSCS-634 : Advanced Big Data and Data Mining
+### Lab 3: Clustering Analysis Using K-Means and K-Medoids Algorithms
 
 ## Purpose
 
